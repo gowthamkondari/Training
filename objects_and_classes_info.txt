@@ -1,0 +1,13 @@
+classes and objects.
+Objects
+An object is an instance of a Class. This is the formal definition of an Object. However, let us talk about the actual meaning of an object first as we don’t know what a Class is for now. 
+An object is a real-world entity. It has states i.e. its properties and behaviors i.e. its functions.
+
+We could claim, for example, that a car is an object. This is due to the states (properties) that it will have, such as the model name, brand name, color, and type (SUV or Sidan, etc.). Additionally, it will perform actions like speeding up (a car can speed up), braking (when stopping), etc.
+A pen is yet another example of an object. It has states describing its color, brand, etc. It has functions like writing, scribbling, etc.
+
+
+Classes
+A Class is a blueprint of an Object. It will tell us what properties an object will have and what functions it can perform. However, the values of those properties can vary from object to object. For instance, a Car is a class that may have properties like color, brand name, model name, etc. Now, there can be a car whose name is “Swift” whose brand name is “Maruti Suzuki” and whose color is “Grey”. Also, there can be another car whose model name is “Polo” and the brand name is “Volkswagen” and whose color is “Red.”
+A Class is a collection of properties (or states, like size, color, etc.) and behavior (or functions, like writing, reading, walking, talking, etc.).
+The different objects have varying values for these attributes, and all of them or some of them carry out some or all of the functions listed in a class.
