@@ -1,4 +1,5 @@
-Abstraction
+Abstraction:
+
 It is a way of shielding the user from unimportant information like the implementation.
 
 Consider a scenario where someone is downloading and uploading files. He is aware of the appropriate alternatives to select. 
