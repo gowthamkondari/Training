@@ -1,0 +1,35 @@
+C++ supports the following five types of inheritance:
+
+1.Single inheritance
+2.Multiple inheritance
+3.Multilevel inheritance
+4.Hierarchical inheritance
+5.Hybrid inheritance
+
+1. Single Inheritance in C++
+
+When a child/derived class inherits only one base/parent class, it is called a single inheritance.
+
+2. Multiple Inheritance in C++
+
+When a child/derived class inherits from more than one base/parent class, it is called multiple inheritance.
+
+3. Multilevel Inheritance in C++
+
+When one base class is inherited by a derived class which is further inherited by any other derived class, it is known as multilevel inheritance.
+Here, a derived class becomes the base class of another derived class. In the end, the last derived class acquires all the members of all its base classes.
+
+4. Hierarchical Inheritance in C++
+
+If more than one derived class inherits a single base class, a hierarchy of base classes is formed and so it is known as hierarchical inheritance.
+
+5. Hybrid Inheritance in C++
+
+It is the combination of more than one type of inheritance i.e hybrid variety of inheritance.
+
+
+
+
+
+
+
