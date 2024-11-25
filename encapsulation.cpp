@@ -26,3 +26,17 @@ int main() {
 
   return 0;
 }
+
+
+/* In the above example, we are calculating the area of a rectangle.
+
+To calculate an area, we need two variables: length and breadth and a function: getArea(). 
+
+Hence, we bundled these variables and function inside a single class named Rectangle.
+
+Here, the variables and functions can be accessed from other classes as well. Hence, this is not data hiding.
+
+This is only encapsulation. We are just keeping similar codes together. */
+
+
+
