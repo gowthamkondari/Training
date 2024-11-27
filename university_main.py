@@ -1,7 +1,7 @@
 import logging
 
 #Create a logger
-logger = logging.getLogger(__name__)
+//logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
 #Create a file handler and a stream handler
