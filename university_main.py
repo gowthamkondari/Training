@@ -138,7 +138,7 @@ class Course:
         """
         logger.info(f"Displaying students for course '{self.name}':")
         for student in self.students:
-            print(student)
+            logger.info(f"Displaying the Student name '{student.name}'.")
 
     def __str__(self):
         """
