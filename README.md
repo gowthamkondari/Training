@@ -9,12 +9,10 @@ The following topics are covered in this code:
 
 2. *Abstraction*: The classes abstract the essential features of a university, departments, courses, and students, ignoring non-essential details.
 
-3. *Composition*: The University class contains a list of Department objects, each Department object contains a list of Course objects, and each Course object contains a list of Student objects, demonstrating composition.
+3. *Inheritance*: Although not explicitly shown in this example, inheritance can be used to create a hierarchy of course types (e.g., UndergraduateCourse, GraduateCourse) that inherit common attributes and methods from a base Course class.
 
-4. *Inheritance*: Although not explicitly shown in this example, inheritance can be used to create a hierarchy of course types (e.g., UndergraduateCourse, GraduateCourse) that inherit common attributes and methods from a base Course class.
+4. *Polymorphism*: The `display_departments` method in the University class, the `display_courses` method in the Department class, and the `display_students` method in the Course class demonstrate polymorphism, as they can work with different types of departments, courses, and students.
 
-5. *Polymorphism*: The `display_departments` method in the University class, the `display_courses` method in the Department class, and the `display_students` method in the Course class demonstrate polymorphism, as they can work with different types of departments, courses, and students.
+5. *Logging*: The code uses Python's built-in logging module to log events and errors, demonstrating the use of logging in OOPS.
 
-6. *Logging*: The code uses Python's built-in logging module to log events and errors, demonstrating the use of logging in OOPS.
-
-7. *Docstrings*: The code uses docstrings to provide documentation for classes, methods, and functions, demonstrating the use of docstrings in OOPS.
+6. *Docstrings*: The code uses docstrings to provide documentation for classes, methods, and functions, demonstrating the use of docstrings in OOPS.
